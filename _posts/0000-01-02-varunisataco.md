@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text "okay let me leave"
+Your text "this lowkey is boring af"
 Use the left arrow to go back!
